@@ -1,6 +1,11 @@
-static/gallery/*
+camui/static/gallery/*
 .venv/*
-static/camera_config/*
+camui/static/camera_config/*
 camera-last-config.json
 *.DS_Store
 .idea
+secrets.json
+config.json
+alertic/detections
+alertic/venv
+alertic/.idea
