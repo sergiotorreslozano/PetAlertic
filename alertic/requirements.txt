@@ -1,0 +1,10 @@
+# Computer Vision and Object Detection
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+numpy>=1.21.0
+
+# Image Processing and utilities
+Pillow>=9.0.0
+
+# NCNN Backend (optional, for optimized inference)
+ncnn>=1.0.0

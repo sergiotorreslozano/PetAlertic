@@ -9,3 +9,5 @@ config.json
 alertic/detections
 alertic/venv
 alertic/.idea
+alertic/yolo11n*
+alertic/__pycache__/
