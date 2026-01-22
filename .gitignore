@@ -11,3 +11,7 @@ alertic/venv
 alertic/.idea
 alertic/yolo11n*
 alertic/__pycache__/
+venv
+yolo11n.pt
+yolo11n.torchscript
+yolo11n_ncnn_model
